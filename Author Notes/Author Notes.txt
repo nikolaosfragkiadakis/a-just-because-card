@@ -1,0 +1,4 @@
+Hello everyone,
+
+"Just Because Card" App is my first Android Application. 
+I made this App as a "Thank You" message to my friends Salvador and George, who encouraging me to start studying android.
