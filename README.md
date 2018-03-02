@@ -1,4 +1,3 @@
-# my-first-android-app
-A Just Because Card - My First Android Application
+# Just Because Card App #
 
-"The Just Because Card" is my first attempt to create an android application.
+"The Just Because Card" is my first android application.
